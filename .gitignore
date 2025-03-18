@@ -1,0 +1,13 @@
+wa-express/node_modules
+wa-vue/node_modules
+
+wa-express/.vscode
+wa-vue/.vscode
+
+wa-express/.wwebjs_auth
+wa-express/.wwebjs_cache
+
+wa-express/package-lock.json
+wa-vue/package-lock.json
+
+
